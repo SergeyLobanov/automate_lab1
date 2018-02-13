@@ -1,0 +1,3 @@
+data1
+local changs
+with merge resolve
